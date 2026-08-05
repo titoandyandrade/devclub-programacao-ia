@@ -1,0 +1,28 @@
+==================================================
+PASSO A PASSO PARA ENVIAR ARQUIVOS PARA O GITHUB
+==================================================
+
+1. Inicializa o Git na pasta:
+git init
+
+2. Seleciona todos os arquivos para envio:
+git add .
+
+3. Salva as alterações localmente com uma mensagem:
+git commit -m "feat: arquivos das aulas 1 e 2"
+
+4. Garante que está na branch principal:
+git branch -M main
+
+5. Conecta a pasta do PC com o link do GitHub (SÓ FAZ UMA VEZ POR PROJETO):
+git remote add origin https://github.com/titoandyandrade/devclub-programacao-ia.git
+
+6. Envia os arquivos para a nuvem:
+git push -u origin main
+
+--------------------------------------------------
+DICA: Nas próximas aulas, só vai precisar usar:
+git add .
+git commit -m "sua mensagem aqui"
+git push
+--------------------------------------------------
