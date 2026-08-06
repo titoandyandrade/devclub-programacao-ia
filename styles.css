@@ -29,12 +29,12 @@ h1 {
 .topo {
     color: #6b7a94;
     text-align: center;  /* alinha texto ao centro */
-    margin: 16px;  /* distância os itens */
+    margin: 16px;  /* distancia os itens */
 }
 .total-gasto {
     font-size: 42px; /* Tamanho da fonte */
     font-weight: bold; /* "Peso" da fonte / Negrito */
-    margin: 12px;  /* distância os itens */
+    margin: 12px;  /* distancia os itens */
 }
 
 label {

@@ -6,7 +6,7 @@ Projeto desenvolvido durante as 4 aulas ao vivo do evento promovido pela **DevCl
 
 * **Aula 01**: Introdução ao ambiente de desenvolvimento e estrutura base do projeto.
 * **Aula 02**: Estilização avançada com CSS e integração das primeiras interações lógicas.
-* **Aula 03**: *Em andamento (Aguardando próxima aula ao vivo)*
+* **Aula 03**: Integração avançada de scripts e conexão da interface com recursos inteligentes.
 * **Aula 04**: *Em andamento (Aguardando próxima aula ao vivo)*
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
