@@ -7,7 +7,8 @@ Projeto desenvolvido durante as 4 aulas ao vivo do evento promovido pela **DevCl
 * **Aula 01**: Introdução ao ambiente de desenvolvimento e estrutura base do projeto.
 * **Aula 02**: Estilização avançada com CSS e integração das primeiras interações lógicas.
 * **Aula 03**: Integração avançada de scripts e conexão da interface com recursos inteligentes.
-* **Aula 04**: *Em andamento (Aguardando próxima aula ao vivo)*
+* **Aula 04**: Integração final com a API de IA do Puter, soma dinâmica de gastos e estilização da lista de itens.
+
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
